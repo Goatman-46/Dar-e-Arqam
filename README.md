@@ -1,5 +1,4 @@
 # Dar-e-Arqam
-<!DOCTYPE html>
 <html>
   <head>
     <title>About Dar-e-Arqam</title>
