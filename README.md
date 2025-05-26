@@ -38,10 +38,10 @@
   <p>Over the years, the impact of Dar-e-Arqam School has been significant in both educational and moral terms. Thousands of students have graduated from its campuses and gone on to excel in colleges and universities, both in Pakistan and abroad. Many alumni have entered fields such as medicine, engineering, education, business, and Islamic scholarship, proving that a solid foundation in both modern and religious education creates well-rounded, successful individuals. Moreover, the school has contributed to the broader society by promoting an educational culture that values both knowledge and ethics. Its expansion into rural and underserved areas has made quality education accessible to many families who might otherwise have limited options. Despite challenges such as maintaining uniform quality across so many campuses and adapting to technological changes, Dar-e-Arqam has continued to evolve and grow. With its commitment to continuous improvement, the school remains a beacon of hope for families seeking an education that not only prepares their children for careers but also for a life rooted in faith, responsibility, and service to humanity.
   </div>
 </p>
-<h2>Made by using</h2>
+<h3>Made by using</h3>
 <p>Acode</p>
 <p>Github</p>
-<h2>Made by</h2>
+<h3>Made by</h3>
 <p>Class 9th</p>
 <p>Tayyab Ejaz</p>
 <p>Supertown Branch</p>
