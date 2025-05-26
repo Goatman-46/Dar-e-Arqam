@@ -19,7 +19,6 @@
     </style>
 </head>
 <body>
-<h1>Dar-e-Arqam</h1>
   <div class="section">
   <h2>Introduction and History of Dar-e-Arqam School</h2>
   <p>Dar-e-Arqam School is one of the most well-known private educational institutions in Pakistan, with a clear mission to provide quality education under the guidance of Islamic principles. Founded in 1991 by a group of dedicated individuals who were passionate about combining modern education with religious values, the school began as a single campus in Sargodha. Over the years, it has rapidly expanded and now has hundreds of branches in cities and towns across the country. The vision behind Dar-e-Arqam School was inspired by the house of Arqam ibn Abi Arqam in early Islamic history, where the Prophet Muhammad (peace be upon him) taught the early followers of Islam. The founders believed that the same spirit of learning and moral development could be revived in today’s society through a well-structured educational system. The school’s motto, often translated as “Knowledge with Virtue,” perfectly captures the core philosophy of the institution. By balancing academic excellence with Islamic character building, Dar-e-Arqam has become a symbol of trust for parents who want both worldly and religious education for their children.</p>
