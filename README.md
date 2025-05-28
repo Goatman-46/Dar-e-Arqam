@@ -20,9 +20,6 @@
     </style>
 </head>
 <body>
-  <script>
-      ("This is Tayyab's Website")
-    </script>
   <div class="section">
 <h1>Dar-e-Arqam</h1>
   <h2>Introduction and History of Dar-e-Arqam School</h2>
