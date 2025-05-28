@@ -21,7 +21,7 @@
 </head>
 <body>
   <script>
-      alert("This is Tayyab's Website")
+      ("This is Tayyab's Website")
     </script>
 <h1>Dar-e-Arqam</h1>
   <div class="section"
